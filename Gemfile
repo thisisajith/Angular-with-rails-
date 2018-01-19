@@ -16,6 +16,8 @@ gem 'puma', '~> 3.0'
 
 gem 'pry'
 
+gem 'devise'
+
 gem 'rails_admin'
 
 gem 'angular-rails'
